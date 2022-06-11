@@ -1,0 +1,12 @@
+> node
+
+> const name = 'bjs'
+> name
+
+> .exit
+
+> inside node
+> press tab two times
+
+
+> String.press tab two times
